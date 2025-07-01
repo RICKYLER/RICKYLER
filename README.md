@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 full stack developer
 --------------------
 
-I am a passionate and versatile Full Stack Developer with hands on experience designing, developing, and deploying end-to-end web applications. Skilled in both front-end and back-end technologies, I thrive on building clean, scalable solutions that deliver excellent user experiences and solve real-world problems.
+I am a passionate and versatile Full Stack Developer with hands on experience designing, developing, and deploying end-to-end web applications. Skilled in both front-end and back end technologies, I thrive on building clean, scalable solutions that deliver excellent user experiences and solve realworld problems.
 
 * 🌍  I'm based in philippines
 * ✉️  You can contact me at [rickycontiga14@gmail.com](mailto:rickycontiga14@gmail.com)
