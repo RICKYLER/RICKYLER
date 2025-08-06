@@ -7,7 +7,7 @@ full stack developer
 I am a passionate and versatile Full Stack Developer with hands on experience designing, developing, and deploying end-to-end web applications. Skilled in both front-end and back end technologies, I thrive on building clean, scalable solutions that deliver excellent user experiences and solve realworld problems.
 
 * 🌍  I'm based in philippines
-* ✉️  You can contact me at [rickycontiga14@gmail.com](mailto:rickycontiga14@gmail.com)
+* ✉️  You can contact me at 
 
 <a href="https://www.github.com/yna2000" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/yna2000?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
