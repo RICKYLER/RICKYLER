@@ -62,25 +62,7 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RICKYLER/RICKYLER/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RICKYLER/RICKYLER/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/RICKYLER/RICKYLER/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <a href="https://open.spotify.com/user/KIRU♕𓀄">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=KIRU%E2%99%95%F0%93%80%84&count=5&unique=false" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
-
-<p align="left">Hello World!!</p>
+<p align="left">I am an information Systems student*passionate about *software development, databases, and system design My goal is to build efficient and user-friendly applications that solve real-world problems.</p>
 
 ###
 
@@ -90,37 +72,3 @@
 </div>
 
 ###
-
-name: Generate pacman animation
-
-on:
-  schedule: # execute every 12 hours
-    - cron: "* */12 * * *"
-
-  workflow_dispatch:
-
-  push:
-    branches:
-    - main
-
-jobs:
-  generate:
-    permissions:
-      contents: write
-    runs-on: ubuntu-latest
-    timeout-minutes: 5
-
-    steps:
-      - name: generate pacman-contribution-graph.svg
-        uses: abozanona/pacman-contribution-graph@main
-        with:
-          github_user_name: ${{ github.repository_owner }}
-
-
-      - name: push pacman-contribution-graph.svg to the output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
