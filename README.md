@@ -1,4 +1,13 @@
-<h1 align="center">Hey👋Creative and detail-oriented Software Developer and UI/UX Designer with strong experience in frontend development, mobile applications, and Web3 platforms. Skilled in building responsive, user-focused applications using React, TypeScript, Flutter, and Java, with solid backend and database knowledge. Passionate about clean design, performance, and collaboration to deliver impactful digital solutions.</h1>
+<h1 align="center">Hey 👋 I'm Ricky</h1>
+
+<p align="center">
+Software Developer & UI/UX Designer specializing in frontend, mobile, and Web3.
+</p>
+
+<p align="center">
+React • TypeScript • Flutter • Java
+</p>
+
 
 ###
 
