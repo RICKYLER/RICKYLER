@@ -62,7 +62,7 @@
 
 ###
 
-<p align="left">I am an information Systems student*passionate about *software development, databases, and system design My goal is to build efficient and user-friendly applications that solve real-world problems.</p>
+<p align="left">Creative and detail-oriented Software Developer and UI/UX Designer with strong experience in frontend development, mobile applications, and Web3 platforms. Skilled in building responsive, user-focused applications using React, TypeScript, Flutter, and Java, with solid backend and database knowledge. Passionate about clean design, performance, and collaboration to deliver impactful digital solutions.</p>
 
 ###
 
