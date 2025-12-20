@@ -1,12 +1,9 @@
 <h1 align="center">Hey 👋 I'm Ricky</h1>
 
 <p align="center">
-Software Developer & UI/UX Designer specializing in frontend, mobile, and Web3.
+Frontend, Mobile & Web3 Developer creating modern, responsive, and user focused digital experiences
 </p>
 
-<p align="center">
-React • TypeScript • Flutter • Java
-</p>
 
 
 ###
