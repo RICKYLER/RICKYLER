@@ -1,97 +1,84 @@
-<p align="left">Hi 👋! I’m Ricky, a Frontend, Mobile & Web3 Developer passionate about building modern, responsive, and user-focused digital experiences.</p>
+<h1 align="center">Ricky Layno Contiga</h1>
+<p align="center"><strong>RICKYLER</strong> | Frontend, Mobile, and Web3 Developer</p>
 
-###
+<p align="center">
+  I build modern, responsive, and user-focused products across web, mobile, and blockchain.
+  I am also growing my expertise in cloud, data, and AI to deliver stronger end-to-end solutions.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Frontend-React%20%7C%20Next.js%20%7C%20TypeScript-0f172a?style=for-the-badge&logo=react&logoColor=61dafb" alt="Frontend badge" />
+  <img src="https://img.shields.io/badge/Mobile-Flutter%20%7C%20Dart-0f172a?style=for-the-badge&logo=flutter&logoColor=54c5f8" alt="Mobile badge" />
+  <img src="https://img.shields.io/badge/Web3-Solidity%20%7C%20Smart%20Contracts-0f172a?style=for-the-badge&logo=ethereum&logoColor=white" alt="Web3 badge" />
+</p>
+
+## Professional Summary
+
+- Build clean and responsive digital experiences with `React`, `Next.js`, `TypeScript`, and modern frontend tooling.
+- Develop cross-platform mobile applications with `Flutter` and `Dart`.
+- Explore blockchain product development with `Solidity`, smart contracts, and Web3 integrations.
+- Continue strengthening cloud, data, and AI capabilities through practical learning and certification.
+
+## Core Stack
+
+| Area | Technologies |
+| --- | --- |
+| Frontend | `React`, `Next.js`, `TypeScript`, `JavaScript`, `HTML`, `CSS`, `Tailwind CSS` |
+| Mobile | `Flutter`, `Dart`, `Android Studio` |
+| Web3 | `Solidity`, `Smart Contracts`, `Polygon` |
+| Backend and Data | `Node.js`, `Python`, `Firebase`, `MongoDB`, `MySQL`, `PostgreSQL` |
+| Tools | `Git`, `Docker`, `Linux`, `VS Code`, `IntelliJ` |
+
+## Certifications
+
+<table>
+  <tr>
+    <td width="50%">
+      <img src="./assets/certifications/smart-contracts.jpg" width="100%" alt="Smart Contracts certificate image" />
+    </td>
+    <td width="50%">
+      <img src="./assets/certifications/aws-cloud-practitioner.png" width="100%" alt="AWS Cloud Practitioner certificate image" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <img src="./assets/certifications/python-data-associate.jpg" width="100%" alt="Python Data Associate certificate image" />
+    </td>
+    <td width="50%">
+      <img src="./assets/certifications/ai-engineer-data-scientists.jpg" width="100%" alt="AI Engineer for Data Scientists Associate certificate image" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <img src="./assets/certifications/associate-data-scientist.png" width="100%" alt="Associate Data Scientist certificate image" />
+    </td>
+    <td width="50%">
+      <img src="./assets/certifications/aws-security-cost-management.png" width="100%" alt="AWS Security and Cost Management Concepts certificate image" />
+    </td>
+  </tr>
+</table>
+
+## Credential Details
+
+| Certification | Provider | Completed | Credential Reference |
+| --- | --- | --- | --- |
+| Smart Contracts | University at Buffalo, The State University of New York via Coursera | Apr 1, 2026 | [Verify on Coursera](https://coursera.org/verify/G9N2LH9ARZCQ) |
+| AWS Cloud Practitioner (CLF-C02) | DataCamp | Mar 30, 2026 | Statement `#821,234` |
+| Python Data Associate | DataCamp | Mar 30, 2026 | `PDA001167144405` |
+| AI Engineer for Data Scientists Associate | DataCamp | Mar 30, 2026 | `AEDS0019707072858` |
+| Associate Data Scientist | DataCamp | Mar 29, 2026 | `DSA0013887104855` |
+| AWS Security and Cost Management Concepts | DataCamp | Mar 30, 2026 | Statement `#47,013,380` |
+
+## Current Focus
+
+- Frontend engineering and polished user interfaces
+- Mobile application development
+- Web3 products and smart contract integrations
+- Cloud fundamentals, data workflows, and AI-enabled solutions
+
+## GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RICKYLERSAFESAFESAFESAFESAFESAFESAFESAFESAFESAFE&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RICKYLERSAFESAFESAFESAFESAFESAFESAFESAFESAFESAFE&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=RICKYLER&show_icons=true&count_private=true&hide_border=true&theme=github_dark" height="160" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RICKYLER&layout=compact&hide_border=true&theme=github_dark" height="160" alt="Top languages" />
 </div>
-
-###
-
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gifSAFESAFESAFESAFESAFESAFESAFESAFESAFE"  />
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svgSAFE" height="30" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svgSAFE" height="30" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svgSAFE" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svgSAFESAFE" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svgSAFESAFE" height="30" alt="solidity logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svgSAFESAFE" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" height="30" alt="yarn logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" alt="dart logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="30" alt="go logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpstorm/phpstorm-original.svg" height="30" alt="phpstorm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="30" alt="pycharm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="30" alt="intellij logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" height="30" alt="eslint logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/datagrip/datagrip-original.svg" height="30" alt="datagrip logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/clion/clion-original.svg" height="30" alt="clion logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="30" alt="android logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="30" alt="androidstudio logo"  />
-</div>
-
-###
-
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RICKYLER/RICKYLER/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RICKYLER/RICKYLER/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/RICKYLER/RICKYLER/output/pacman-contribution-graph.svg">
-</picture>
-
-###
